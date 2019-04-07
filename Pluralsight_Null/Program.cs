@@ -7,20 +7,25 @@ namespace Pluralsight_Null
     {
         static void Main(string[] args)
         {
-            PlayerCharacter player = new PlayerCharacter
+            PlayerCharacter sarah = new PlayerCharacter(new DiamondSkinDefense())
             {
-                DaysSinceLastLogin = 42
+                Name = "Sarah"
             };
 
-            int days = player?.DaysSinceLastLogin ?? -1;
+            PlayerCharacter amrit = new PlayerCharacter(SpecialDefense.Null)
+            {
+                Name = "Amrit"
+            };
 
-            
-            //int days = player.DaysSinceLastLogin.Value;
+            PlayerCharacter gentry = new PlayerCharacter(SpecialDefense.Null)
+            {
+                Name = "Gentry"
+            };
 
-            Console.WriteLine(days);
+            sarah.Hit(10);
+            amrit.Hit(10);
+            gentry.Hit(10);
 
-
-            Console.ReadLine();
         }
     }
 }
