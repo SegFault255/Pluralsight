@@ -1,0 +1,11 @@
+D:\Repos\Pluralsight\Pluralsight_Null\bin\Debug\netcoreapp2.1\Pluralsight_Nulls.deps.json
+D:\Repos\Pluralsight\Pluralsight_Null\bin\Debug\netcoreapp2.1\Pluralsight_Nulls.runtimeconfig.json
+D:\Repos\Pluralsight\Pluralsight_Null\bin\Debug\netcoreapp2.1\Pluralsight_Nulls.runtimeconfig.dev.json
+D:\Repos\Pluralsight\Pluralsight_Null\bin\Debug\netcoreapp2.1\Pluralsight_Nulls.dll
+D:\Repos\Pluralsight\Pluralsight_Null\bin\Debug\netcoreapp2.1\Pluralsight_Nulls.pdb
+D:\Repos\Pluralsight\Pluralsight_Null\obj\Debug\netcoreapp2.1\Pluralsight_Nulls.csprojAssemblyReference.cache
+D:\Repos\Pluralsight\Pluralsight_Null\obj\Debug\netcoreapp2.1\Pluralsight_Nulls.csproj.CoreCompileInputs.cache
+D:\Repos\Pluralsight\Pluralsight_Null\obj\Debug\netcoreapp2.1\Pluralsight_Nulls.AssemblyInfoInputs.cache
+D:\Repos\Pluralsight\Pluralsight_Null\obj\Debug\netcoreapp2.1\Pluralsight_Nulls.AssemblyInfo.cs
+D:\Repos\Pluralsight\Pluralsight_Null\obj\Debug\netcoreapp2.1\Pluralsight_Nulls.dll
+D:\Repos\Pluralsight\Pluralsight_Null\obj\Debug\netcoreapp2.1\Pluralsight_Nulls.pdb
