@@ -7,14 +7,18 @@ namespace Pluralsight_Null
     {
         static void Main(string[] args)
         {
-            var player = new PlayerCharacter
+            PlayerCharacter player = new PlayerCharacter
             {
-                Name = "",
-                //DaysSinceLastLogin = 42
+                DaysSinceLastLogin = 42
             };
 
+            int days = player?.DaysSinceLastLogin ?? -1;
 
-            PlayerDisplayer.Write(player);
+            
+            //int days = player.DaysSinceLastLogin.Value;
+
+            Console.WriteLine(days);
+
 
             Console.ReadLine();
         }
